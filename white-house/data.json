@@ -1,0 +1,42 @@
+[
+{
+    "title": "White House Visitor Records Requests",
+    "description": "A list of White House Visitor Record requests.",
+    "distribution": [
+          { 
+            "accessURL": "https://explore.data.gov/api/views/644b-gaut/rows.csv?accessType=DOWNLOAD",
+            "format": "csv"
+          },
+          { 
+            "accessURL": "https://explore.data.gov/api/views/644b-gaut/rows.json?accessType=DOWNLOAD",
+            "format": "json"
+          },
+          { 
+            "accessURL": "https://explore.data.gov/api/views/644b-gaut/rows.xml?accessType=DOWNLOAD",
+            "format": "xml"
+          }
+    ],
+    "keyword": "visitor records, white house, transparency, government",
+    "modified": "2013-04-26",
+    "publisher": "Executive Office of the President",
+    "person": "",
+    "mbox": "",
+    "identifier": "white-house-visitor-records",
+    "accessLevel": "public",
+
+    "license": "Data.gov license",
+    
+    "spatial": "Washington, DC",
+    "temporal": "2010-01-01 12:00:00,2013-04-28 12:00:00",
+
+    "issued": "2009-10-30",
+    
+    "accrualPeriodicity": "daily",
+    "granularity": "person",
+    "dataQuality" : "true",
+    "category": "",
+    "references": "https://explore.data.gov/dataset/White-House-Visitor-Records-Requests/644b-gaut",
+    "landingPage": "https://explore.data.gov/dataset/White-House-Visitor-Records-Requests/644b-gaut",
+    "systemOfRecords": "WAVES"
+}
+]
