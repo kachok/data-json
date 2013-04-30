@@ -1,0 +1,592 @@
+[
+    {
+        "webService": "http://explore.data.gov/api/views/ykv5-fn9t/rows.json", 
+        "systemOfRecords": "http://nces.ed.gov/ccd/", 
+        "references": "http://nces.ed.gov/ccd/data/txt/psu091alay.txt", 
+        "license": "Public Domain", 
+        "landingPage": "http://ed.gov/developer", 
+        "title": "Public Elementary/Secondary Listing", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00", 
+        "theme": "Kindergarten through Grade 12 Schools", 
+        "spatial": "US", 
+        "dataDictionary": "http://nces.ed.gov/ccd/pdf/INsc09101a.pdf", 
+        "description": "The purpose of the CCD nonfiscal surveys is to provide a listing of all schools and agencies providing free public elementary and secondary education, along with basic descriptive statistical information on each school and agency listed. Penalties apply for misuse, seehttp://nces.ed.gov/ncesglobal/data_usage_agreement.aspfor more details.", 
+        "format": "JSON", 
+        "accessLevel": "public", 
+        "publisher": "US Department of Education", 
+        "language": "English", 
+        "keyword": "education, schools", 
+        "modified": "2011-11-19 00:00:00", 
+        "person": "Open Data Initiative", 
+        "dataQuality": "true", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/ykv5-fn9t/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "identifier": "ykv5-fn9t", 
+        "mbox": "opendata@ed.gov"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "description": "The purpose of the CCD nonfiscal surveys is to provide a listing of all schools and agencies providing free public elementary and secondary education, along with basic descriptive statistical information on each school and agency listed. Penalties apply for misuse, seehttp://nces.ed.gov/ncesglobal/data_usage_agreement.aspfor more details.", 
+        "keyword": "education, schools", 
+        "title": "School District / Local Education Agency (LEA) Listing", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00", 
+        "format": "JSON", 
+        "landingPage": "http://ed.gov/developer", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ccd/", 
+        "person": "Open Data Initiative", 
+        "theme": "Kindergarten through Grade 12 Schools", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ccd/pdf/pau091agen.pdf", 
+        "identifier": "t9x5-2xzp", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/t9x5-2xzp/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/t9x5-2xzp/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/t9x5-2xzp/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "webService": "http://explore.data.gov/api/views/t9x5-2xzp/rows.json"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "description": "This file contains directory information for every institution in the 2010 IPEDS universe. Includes name, address, city, state and zipcode. Identifies institutions as currently active, institutions that participate in Title IV federal financial aid programs for which IPEDS is mandatory. It also includes variables derived from the 2010 Institutional Characteristics survey, such as control and level of institution, highest level and highest degree offered and carnegie classifications.", 
+        "keyword": "education, colleges, universities", 
+        "title": "Directory Listing", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00", 
+        "format": "JSON", 
+        "landingPage": "http://ed.gov/developer", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/HD2010_Dict.zip", 
+        "identifier": "uc4u-xdrd", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/uc4u-xdrd/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/uc4u-xdrd/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/uc4u-xdrd/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "webService": "http://explore.data.gov/api/views/uc4u-xdrd/rows.json"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "description": "This file contains the number of awards by type of program, level of award (certificate or degree), first or second major and by race/ethnicity and gender. Type of program is categorized according to the Classification of Instructional Programs (CIP), a detailed coding system for postsecondary instructional programs. Data covers all awards granted between July 1, 2009 and June 30, 2010. This file contains multiple records per institution. Each record is uniquely defined by the variables IPEDS ID (UNITID), classification of instructional program (CIPCODE), first or second major (MAJORNUM) and award level (AWLEVEL). In 2009-10 institutions had the choice of using the old race/ethnicity categories or the new new race/ethnicity categories or a mix of old and new to report completions data. Each record will contain both old and new categories and a set of derived variables that combine both old and new. The set of race/ethnicity variables that will be used in IPEDS publications during these optional reporting years will be the derived set of variables, the two or more race category from the new reporting method, race/ethnicity unknown and Nonresident Aliens. These variables will sum to the total awards on each record.", 
+        "keyword": "education, colleges, universities", 
+        "title": "Awards/degrees conferred by program, award level, race/ethnicity, and gender", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00", 
+        "format": "JSON", 
+        "landingPage": "http://ed.gov/developer", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/C2010_A_Dict.zip", 
+        "identifier": "fjce-ze3t", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/fjce-ze3t/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/fjce-ze3t/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/fjce-ze3t/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "webService": "http://explore.data.gov/api/views/fjce-ze3t/rows.json"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "description": "This file contains data on program and award level offerings, control and affiliation and special learning opportunities. This file also contains data on applicants, admissions and test scores for institutions who do not have an open admissions policy.", 
+        "keyword": "education, colleges, universities", 
+        "title": "Educational offerings and athletic associations", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00", 
+        "format": "JSON", 
+        "landingPage": "http://ed.gov/developer", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/IC2010_Dict.zip", 
+        "identifier": "5uik-y7st", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/5uik-y7st/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/5uik-y7st/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/5uik-y7st/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "webService": "http://explore.data.gov/api/views/5uik-y7st/rows.json"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/8bii-3eu2/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Graduation rate data, 200% of normal time to complete - cohort year 2001 (4-year) and cohort year 2005 (less-than-4-year) institutions", 
+        "language": "English", 
+        "temporal": "2008-09-01 00:00:00,2009-05-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/GR200_09_Dict.zip", 
+        "identifier": "8bii-3eu2", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/8bii-3eu2/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/8bii-3eu2/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/8bii-3eu2/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/4ibs-r6fv/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Student financial aid and net price (revised on 07/12/2011)", 
+        "language": "English", 
+        "temporal": "2008-09-01 00:00:00,2009-05-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/SFA0809_RV_Dict.zip", 
+        "identifier": "4ibs-r6fv", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/4ibs-r6fv/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/4ibs-r6fv/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/4ibs-r6fv/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/thh5-72te/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "12-month instructional activity", 
+        "language": "English", 
+        "temporal": "2008-09-01 00:00:00,2009-05-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/EFIA2009_Dict.zip", 
+        "identifier": "thh5-72te", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/wgh7-hitc/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Student charges for academic year programs", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Student Charges", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/IC2009_AY_Dict.zip", 
+        "identifier": "wgh7-hitc", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/wgh7-hitc/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/wgh7-hitc/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/wgh7-hitc/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/tcb6-vjfn/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Student charges by program (vocational programs)", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2010-05-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Student Charges", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/IC2009_PY_Dict.zip", 
+        "identifier": "tcb6-vjfn", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/tcb6-vjfn/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/tcb6-vjfn/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/tcb6-vjfn/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/3vvm-4qnc/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Public institutions - GASB", 
+        "language": "English", 
+        "temporal": "2008-10-01 00:00:00,2009-09-30 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Finance", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/F0809_F1A_Dict.zip", 
+        "identifier": "3vvm-4qnc", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/3vvm-4qnc/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/3vvm-4qnc/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/3vvm-4qnc/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/47az-2vt8/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Private not-for-profit institutions or Public institutions using FASB", 
+        "language": "English", 
+        "temporal": "2008-10-01 00:00:00,2009-09-30 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Finance", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/F0809_F2_Dict.zip", 
+        "identifier": "47az-2vt8", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/47az-2vt8/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/47az-2vt8/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/47az-2vt8/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/dfj8-kqrg/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Private for-profit institutions", 
+        "language": "English", 
+        "temporal": "2008-10-01 00:00:00,2009-09-30 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Finance", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/F0809_F3_Dict.zip", 
+        "identifier": "dfj8-kqrg", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/dfj8-kqrg/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/dfj8-kqrg/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/dfj8-kqrg/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/xdea-fj43/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Age category, gender, attendance status, and level of student", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2009-12-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Enrollment", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/EF2009B_Dict.zip", 
+        "identifier": "xdea-fj43", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/xdea-fj43/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/xdea-fj43/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/xdea-fj43/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/vp9n-h5bj/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "Race/ethnicity, gender, attendance status, and level of student", 
+        "language": "English", 
+        "temporal": "2009-09-01 00:00:00,2009-12-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Enrollment", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/EF2009A_Dict.zip", 
+        "identifier": "vp9n-h5bj", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/vp9n-h5bj/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/vp9n-h5bj/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/vp9n-h5bj/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }, 
+    {
+        "publisher": "US Department of Education", 
+        "accessLevel": "public", 
+        "webService": "http://explore.data.gov/api/views/thh5-72te/rows.json", 
+        "keyword": "education, colleges, universities", 
+        "title": "12-month unduplicated headcount", 
+        "language": "English", 
+        "temporal": "2008-09-01 00:00:00,2009-05-31 00:00:00", 
+        "format": "JSON", 
+        "modified": "2011-11-19 00:00:00", 
+        "systemOfRecords": "http://nces.ed.gov/ipeds/", 
+        "person": "Open Data Initiative", 
+        "theme": "Colleges and Universities, Enrollment", 
+        "spatial": "US", 
+        "dataQuality": "true", 
+        "license": "Public Domain", 
+        "dataDictionary": "http://nces.ed.gov/ipeds/datacenter/data/EFFY2009_Dict.zip", 
+        "identifier": "thh5-72te", 
+        "mbox": "opendata@ed.gov", 
+        "distribution": [
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.csv?accessType=DOWNLOAD", 
+                "format": "csv"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.json?accessType=DOWNLOAD", 
+                "format": "json"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }, 
+            {
+                "accessURL": "https://explore.data.gov/views/thh5-72te/rows.xml?accessType=DOWNLOAD", 
+                "format": "xml"
+            }
+        ], 
+        "landingPage": "http://ed.gov/developer"
+    }
+]
