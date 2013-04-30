@@ -1,0 +1,1838 @@
+[
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Projects (KPIs)", 
+        "keyword": "countries, performance, tracking, monitoring, evaluation, benchmarks, international development, aid", 
+        "title": "Projects (KPIs)", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "ITTs Spreadsheets (Excel)", 
+        "person": "Open Data Initiative", 
+        "theme": "Projects performance information (KPIs and ITTs)", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/projects.html", 
+        "identifier": "performance-projects", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/performance/projects.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Compacts (KPIs)", 
+        "keyword": "countries, performance, tracking, monitoring, evaluation, benchmarks, international development, aid", 
+        "title": "Compacts (KPIs)", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "ITTs Spreadsheets (Excel)", 
+        "person": "Open Data Initiative", 
+        "theme": "Projects performance information (KPIs and ITTs)", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/compacts.html", 
+        "identifier": "performance-compacts", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/performance/compacts.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Activities (KPIs)", 
+        "keyword": "countries, performance, tracking, monitoring, evaluation, benchmarks, international development, aid", 
+        "title": "Activities (KPIs)", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "ITTs Spreadsheets (Excel)", 
+        "person": "Open Data Initiative", 
+        "theme": "Projects performance information (KPIs and ITTs)", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/activities.html", 
+        "identifier": "performance-activities", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/performance/activities.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Key Performance Indicators (KPIs)", 
+        "keyword": "countries, performance, tracking, monitoring, evaluation, benchmarks, international development, aid", 
+        "title": "Key Performance Indicators (KPIs)", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "ITTs Spreadsheets (Excel)", 
+        "person": "Open Data Initiative", 
+        "theme": "Projects performance information (KPIs and ITTs)", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/kpis.html", 
+        "identifier": "performance-kpis", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/performance/kpis.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Data notes (KPIs)", 
+        "keyword": "countries, performance, tracking, monitoring, evaluation, benchmarks, international development, aid", 
+        "title": "Data notes (KPIs)", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "ITTs Spreadsheets (Excel)", 
+        "person": "Open Data Initiative", 
+        "theme": "Projects performance information (KPIs and ITTs)", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/notes.html", 
+        "identifier": "performance-notes", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/performance/notes.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Indicators (ITTs)", 
+        "keyword": "countries, performance, tracking, monitoring, evaluation, benchmarks, international development, aid", 
+        "title": "Indicators (ITTs)", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "ITTs Spreadsheets (Excel)", 
+        "person": "Open Data Initiative", 
+        "theme": "Projects performance information (KPIs and ITTs)", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/indicators.html", 
+        "identifier": "performance-indicators", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/performance/indicators.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Indicator Details (ITTs)", 
+        "keyword": "countries, performance, tracking, monitoring, evaluation, benchmarks, international development, aid", 
+        "title": "Indicator Details (ITTs)", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "ITTs Spreadsheets (Excel)", 
+        "person": "Open Data Initiative", 
+        "theme": "Projects performance information (KPIs and ITTs)", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/indicator_details.html", 
+        "identifier": "performance-indicator_details", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/performance/indicator_details.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Selection Indicators values for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Selection Indicators FY13", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/selection_indicators_fy13.html", 
+        "identifier": "selection-fy13-selection_indicators_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/selection_indicators_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Categories of indicators used for country selection", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Indicator Categories", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/indicator_categories_fy13.html", 
+        "identifier": "selection-fy13-indicator_categories_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/indicator_categories_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Information about indicators used in FY13 country selection", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Indicators", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/indicators_fy13.html", 
+        "identifier": "selection-fy13-indicators_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/indicators_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Income categories descriptions", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Income Categories", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/income_categories_fy13.html", 
+        "identifier": "selection-fy13-income_categories_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/income_categories_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "GNI Limits indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "GNI Limits indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/gni_limits_fy13.html", 
+        "identifier": "selection-fy13-gni_limits_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/gni_limits_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "GNI data for countries including override values", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "GNI per country", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/gni_fy13.html", 
+        "identifier": "selection-fy13-gni_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/gni_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Threshold values per indicator for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Indicators Threshold", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/indicators_threshold_fy13.html", 
+        "identifier": "selection-fy13-indicators_threshold_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/indicators_threshold_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Access To Credit indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Access To Credit indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/access_to_credit_fy13.html", 
+        "identifier": "selection-fy13-access_to_credit_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/access_to_credit_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Bussness Start Up indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Bussness Start Up indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/business_start_up_fy13.html", 
+        "identifier": "selection-fy13-business_start_up_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/business_start_up_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Child Health indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Child Health indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/child_health_fy13.html", 
+        "identifier": "selection-fy13-child_health_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/child_health_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Civil Liberties indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Civil Liberties indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/civil_liberties_fy13.html", 
+        "identifier": "selection-fy13-civil_liberties_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/civil_liberties_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Control Of Corruption indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Control Of Corruption indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/control_of_corruption_fy13.html", 
+        "identifier": "selection-fy13-control_of_corruption_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/control_of_corruption_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Education Expenditures indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Education Expenditures indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/education_expenditures_fy13.html", 
+        "identifier": "selection-fy13-education_expenditures_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/education_expenditures_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Fiscal Policy indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Fiscal Policy indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/fiscal_policy_fy13.html", 
+        "identifier": "selection-fy13-fiscal_policy_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/fiscal_policy_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Freedom Of Information indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Freedom Of Information indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/freedom_of_information_fy13.html", 
+        "identifier": "selection-fy13-freedom_of_information_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/freedom_of_information_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Gender In The Economy indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Gender In The Economy indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/gender_in_the_economy_fy13.html", 
+        "identifier": "selection-fy13-gender_in_the_economy_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/gender_in_the_economy_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Girls Primary Education Completion Rates indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Girls Primary Education Completion Rates indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/girls_primary_education_completion_rates_fy13.html", 
+        "identifier": "selection-fy13-girls_primary_education_completion_rates_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/girls_primary_education_completion_rates_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Girls Secondary Education Completion Rates indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Girls Secondary Education Completion Rates indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/girls_secondary_education_completion_rates_fy13.html", 
+        "identifier": "selection-fy13-girls_secondary_education_completion_rates_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/girls_secondary_education_completion_rates_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Goverment Efficiency indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Goverment Efficiency indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/government_efficiency_fy13.html", 
+        "identifier": "selection-fy13-government_efficiency_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/government_efficiency_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Health Expenditures indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Health Expenditures indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/health_expenditures_fy13.html", 
+        "identifier": "selection-fy13-health_expenditures_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/health_expenditures_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Immunization Rates indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Immunization Rates indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/immunization_rates_fy13.html", 
+        "identifier": "selection-fy13-immunization_rates_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/immunization_rates_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Inflation indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Inflation indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/inflation_fy13.html", 
+        "identifier": "selection-fy13-inflation_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/inflation_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Land Rights And Access indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Land Rights And Access indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/land_rights_and_access_fy13.html", 
+        "identifier": "selection-fy13-land_rights_and_access_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/land_rights_and_access_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Natural Resource Protection indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Natural Resource Protection indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/natural_resource_protection_fy13.html", 
+        "identifier": "selection-fy13-natural_resource_protection_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/natural_resource_protection_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Political Rights indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Political Rights indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/political_rights_fy13.html", 
+        "identifier": "selection-fy13-political_rights_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/political_rights_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Regulatory Quality indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Regulatory Quality indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/regulatory_quality_fy13.html", 
+        "identifier": "selection-fy13-regulatory_quality_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/regulatory_quality_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Rule Of Law indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Rule Of Law indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/rule_of_law_fy13.html", 
+        "identifier": "selection-fy13-rule_of_law_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/rule_of_law_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Trade Policy indicator calculation details for FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Trade Policy indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/trade_policy_fy13.html", 
+        "identifier": "selection-fy13-trade_policy_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/trade_policy_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "LIC Countries Indicators Summary FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "LIC Countries Indicators Summary FY13", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/lic_indicators_fy13.html", 
+        "identifier": "selection-fy13-lic_indicators_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/lic_indicators_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "LMIC Countries Indicators Summary FY13", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "LMIC Countries Indicators Summary FY13", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country selection indicators for FY13", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy13/lmic_indicators_fy13.html", 
+        "identifier": "selection-fy13-lmic_indicators_fy13", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy13/lmic_indicators_fy13.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Selection Indicators values for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Selection Indicators FY12", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/selection_indicators_fy12.html", 
+        "identifier": "selection-fy12-selection_indicators_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/selection_indicators_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Categories of indicators used for country selection", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Indicator Categories", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/indicator_categories_fy12.html", 
+        "identifier": "selection-fy12-indicator_categories_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/indicator_categories_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Information about indicators used in FY12 country selection", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Indicators", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/indicators_fy12.html", 
+        "identifier": "selection-fy12-indicators_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/indicators_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Income categories descriptions", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Income Categories", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/income_categories_fy12.html", 
+        "identifier": "selection-fy12-income_categories_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/income_categories_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "GNI Limits indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "GNI Limits indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/gni_limits_fy12.html", 
+        "identifier": "selection-fy12-gni_limits_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/gni_limits_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "GNI data for countries including override values", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "GNI per country", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/gni_fy12.html", 
+        "identifier": "selection-fy12-gni_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/gni_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Threshold values per indicator for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Indicators Threshold", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/indicators_threshold_fy12.html", 
+        "identifier": "selection-fy12-indicators_threshold_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/indicators_threshold_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Access To Credit indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Access To Credit indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/access_to_credit_fy12.html", 
+        "identifier": "selection-fy12-access_to_credit_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/access_to_credit_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Bussness Start Up indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Bussness Start Up indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/business_start_up_fy12.html", 
+        "identifier": "selection-fy12-business_start_up_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/business_start_up_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Child Health indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Child Health indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/child_health_fy12.html", 
+        "identifier": "selection-fy12-child_health_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/child_health_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Civil Liberties indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Civil Liberties indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/civil_liberties_fy12.html", 
+        "identifier": "selection-fy12-civil_liberties_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/civil_liberties_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Control Of Corruption indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Control Of Corruption indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/control_of_corruption_fy12.html", 
+        "identifier": "selection-fy12-control_of_corruption_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/control_of_corruption_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Education Expenditures indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Education Expenditures indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/education_expenditures_fy12.html", 
+        "identifier": "selection-fy12-education_expenditures_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/education_expenditures_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Fiscal Policy indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Fiscal Policy indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/fiscal_policy_fy12.html", 
+        "identifier": "selection-fy12-fiscal_policy_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/fiscal_policy_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Freedom Of Information indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Freedom Of Information indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/freedom_of_information_fy12.html", 
+        "identifier": "selection-fy12-freedom_of_information_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/freedom_of_information_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Gender In The Economy indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Gender In The Economy indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/gender_in_the_economy_fy12.html", 
+        "identifier": "selection-fy12-gender_in_the_economy_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/gender_in_the_economy_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Girls Primary Education Completion Rates indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Girls Primary Education Completion Rates indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/girls_primary_education_completion_rates_fy12.html", 
+        "identifier": "selection-fy12-girls_primary_education_completion_rates_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/girls_primary_education_completion_rates_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Girls Secondary Education Completion Rates indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Girls Secondary Education Completion Rates indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/girls_secondary_education_completion_rates_fy12.html", 
+        "identifier": "selection-fy12-girls_secondary_education_completion_rates_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/girls_secondary_education_completion_rates_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Goverment Efficiency indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Goverment Efficiency indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/government_efficiency_fy12.html", 
+        "identifier": "selection-fy12-government_efficiency_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/government_efficiency_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Health Expenditures indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Health Expenditures indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/health_expenditures_fy12.html", 
+        "identifier": "selection-fy12-health_expenditures_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/health_expenditures_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Immunization Rates indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Immunization Rates indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/immunization_rates_fy12.html", 
+        "identifier": "selection-fy12-immunization_rates_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/immunization_rates_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Inflation indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Inflation indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/inflation_fy12.html", 
+        "identifier": "selection-fy12-inflation_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/inflation_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Land Rights And Access indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Land Rights And Access indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/land_rights_and_access_fy12.html", 
+        "identifier": "selection-fy12-land_rights_and_access_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/land_rights_and_access_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Natural Resource Protection indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Natural Resource Protection indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/natural_resource_protection_fy12.html", 
+        "identifier": "selection-fy12-natural_resource_protection_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/natural_resource_protection_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Political Rights indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Political Rights indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/political_rights_fy12.html", 
+        "identifier": "selection-fy12-political_rights_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/political_rights_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Regulatory Quality indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Regulatory Quality indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/regulatory_quality_fy12.html", 
+        "identifier": "selection-fy12-regulatory_quality_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/regulatory_quality_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Rule Of Law indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Rule Of Law indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/rule_of_law_fy12.html", 
+        "identifier": "selection-fy12-rule_of_law_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/rule_of_law_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Trade Policy indicator calculation details for FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "Trade Policy indicator details", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/trade_policy_fy12.html", 
+        "identifier": "selection-fy12-trade_policy_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/trade_policy_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "LIC Countries Indicators Summary FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "LIC Countries Indicators Summary FY12", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/lic_indicators_fy12.html", 
+        "identifier": "selection-fy12-lic_indicators_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/lic_indicators_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "LMIC Countries Indicators Summary FY12", 
+        "keyword": "countries, indicators, selection, international development, aid", 
+        "title": "LMIC Countries Indicators Summary FY12", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Country Selection Database", 
+        "person": "Open Data Initiative", 
+        "theme": "Country Selection data FY12", 
+        "accrualPeriodicity": "Annually", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/selection/fy12/lmic_indicators_fy12.html", 
+        "identifier": "selection-fy12-lmic_indicators_fy12", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/selection/fy12/lmic_indicators_fy12.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }, 
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "Financials FY13 Q1", 
+        "keyword": "finances, obligations, disbursements, international development", 
+        "title": "Financials FY13 Q1", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "csv", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "MIDAS", 
+        "person": "Open Data Initiative", 
+        "theme": "Financial Data", 
+        "accrualPeriodicity": "Quaterly", 
+        "dataQuality": "TRUE", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/finance/finance_fy13_q1.html", 
+        "identifier": "finance-finance_fy13_q1", 
+        "mbox": "opendata@mcc.gov", 
+        "distribution": [
+            {
+                "accessURL": "http://data.mcc.gov/raw/finance/finance_fy13_q1.csv", 
+                "format": "csv"
+            }
+        ], 
+        "landingPage": "http://data.mcc.gov"
+    }
+]
