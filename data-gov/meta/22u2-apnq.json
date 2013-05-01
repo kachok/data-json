@@ -1,0 +1,104 @@
+{
+  "id" : "22u2-apnq",
+  "name" : "Complete 2010 Greenhouse Gas Data",
+  "attribution" : "Environmental Protection Agency",
+  "averageRating" : 0,
+  "category" : "Geography and Environment",
+  "createdAt" : 1357886614,
+  "description" : "These files contain the publicly available data from the GHG Reporting Program for 2010. This data includes non-confidential data reported by facilities that directly emit GHGs. The files also contain non-confidential information reported by suppliers of fossil fuels and industrial gases.  The files include data in both HTML (human readable) and XML format.   For more information on the GHG Reporting Program and this data, please visit http://epa.gov/ghgreporting",
+  "downloadCount" : 38,
+  "externalId" : "http://www.data.gov/details/11701",
+  "numberOfComments" : 0,
+  "oid" : 2205671,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1357886614,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 607271,
+  "totalTimesRated" : 0,
+  "viewCount" : 83,
+  "viewLastModified" : 1357886615,
+  "viewType" : "href",
+  "columns" : [ ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Environmental Protection Agency",
+        "Date Released" : "01/11/2012",
+        "Date Updated" : "01/11/2012",
+        "Time Period" : "2010.0",
+        "Frequency" : "Data are reported annually but each year of data may be updated periodically on an ad-hoc basis",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "11701",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "Complete 2010 Greenhouse Gas Data, ",
+        "Agency Program Page" : "http://www.epa.gov/ghgreporting/index.html",
+        "Agency Data Series Page" : "http://www.epa.gov/ghgreporting/ghgdata/index.html"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "Facility-level Greenhouse Emissions",
+        "Geographic Coverage" : "United States, including all states and territories"
+      },
+      "Data Description" : {
+        "Collection Mode" : "Measured, Estimated, Modeled",
+        "Data Dictionary" : "http://www.ccdsupport.com/confluence/display/ghgp/Glossary"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.ccdsupport.com/confluence/display/ghgp/About+the+Data"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "US Environmental Protection Agency",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xml" : "http://www.epa.gov/ghgreporting/documents/zip/2010-consolidated.zip",
+      "xmlSize" : "6.48 MB"
+    },
+    "href" : "http://www.data.gov/details/11701"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "profileLastModified" : 1323187698,
+    "roleName" : "publisher",
+    "screenName" : "Data.gov Program Management Office",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "profileLastModified" : 1323187698,
+    "roleName" : "publisher",
+    "screenName" : "Data.gov Program Management Office",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages" ]
+  },
+  "tags" : [ "Environmental Protection Agency", "Consolidated Appropriations Act 2008", "pulp", "Climate Change", "direct emitters", "EPA", "suppliers", "Power Plants", "Office of Atmospheric Programs", "Greenhouse Gases", "paper", "40 CFR Part 98", "GHG", "Electronic Greenhouse Gas Reporting Tool", "chemicals", "Mandatory Reporting of Greenhouse Gases Rule", "landfills", "Global Warming", "minerals", "refineries", "Facilities", "metals", "E-GGRT", "OAR", "OAP", "Office of Air and Radiation" ],
+  "flags" : [ "default" ]
+}

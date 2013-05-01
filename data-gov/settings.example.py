@@ -1,0 +1,1 @@
+settings={"app_token":"your data.gov socrata app token"}
