@@ -40,6 +40,27 @@ for i, row in enumerate(listreader):
 
 f.close()
 
+
+f=open("external-catalog.json")
+catalog=json.loads(f.read())
+f.close()
+
+for dataset in catalog:
+	datasets.append(dataset)
+
+f=open("api.json")
+catalog=json.loads(f.read())
+f.close()
+
+for dataset in catalog:
+	datasets.append(dataset)
+
+f=open("human-readable.json")
+catalog=json.loads(f.read())
+f.close()
+
+for dataset in catalog:
+	datasets.append(dataset)
 #dump datasets into data.json file
 #print json.dumps(datasets, indent=4)
 

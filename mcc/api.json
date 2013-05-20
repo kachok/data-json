@@ -1,0 +1,22 @@
+ [
+    {
+        "publisher": "Millennium Challenge Corporation", 
+        "accessLevel": "Public", 
+        "description": "MCC Open Data API", 
+        "keyword": "data, api", 
+        "title": "Open Data API", 
+        "language": "English", 
+        "issued": "5/1/13 0:00", 
+        "format": "json", 
+        "modified": "5/1/13 0:00", 
+        "systemOfRecords": "Open Data Catalog", 
+        "person": "Open Data Initiative", 
+        "theme": "Open Data API", 
+        "license": "data.mcc.gov terms of use - http://data.mcc.gov/termsofuse.html", 
+        "dataDictionary": "http://data.mcc.gov/performance/projects.html", 
+        "identifier": "data-api", 
+        "mbox": "opendata@mcc.gov", 
+        "webService":"http://data.mcc.gov/api",
+        "landingPage": "http://data.mcc.gov/developers"
+    }
+]
